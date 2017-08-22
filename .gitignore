@@ -1,3 +1,4 @@
+### GO
 # Binaries for programs and plugins
 *.exe
 *.dll
@@ -12,3 +13,9 @@
 
 # Project-local glide cache, RE: https://github.com/Masterminds/glide/issues/736
 .glide/
+
+### C#
+# Ignore these folder for this project
+**/bin/*
+**/obj/*
+**/.vscode/*
